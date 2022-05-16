@@ -47,6 +47,9 @@ Implementation of facemask detection with Yolor in PyTorch.
 - The best model saved: \yolor-main\runs\train\yolor_p6\weights\best.pt
 - Run the detect.py → python .\detect.py --source .\inference\images\ --cfg .\cfg\yolor_p6_custom.cfg --weights .\yolor-main\runs\train\yolor_p6\weights\best.pt --conf 0.25 --img-size 640 --device 0 --names .\data\custom.names
 
+## Results
+
+![Image 1](25.jpg)
 ## Citation
 
 @misc{make ml,

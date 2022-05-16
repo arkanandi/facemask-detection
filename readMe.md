@@ -54,6 +54,11 @@ The results are as follows:
 ![Test Image1](https://github.com/arkanandi/facemask-detection/blob/ed89a98136ce7aa91f9d15c7a09f1952fb9a2758/yolor-main/inference/images/25.jpg "Test Image1")
 ![Test Image1](https://github.com/arkanandi/facemask-detection/blob/9770df04ead2f7d8f349d046ccc2ca6c71e5f3bd/yolor-main/inference/output/25.jpg "Test Result Image1")
 
+![Test Image2](https://github.com/arkanandi/facemask-detection/blob/7c715bb8a04cb8635851aea387cfe26c1302f855/yolor-main/inference/images/maksssksksss562.png "Test Image2")
+![Test Result Image2](https://github.com/arkanandi/facemask-detection/blob/7c715bb8a04cb8635851aea387cfe26c1302f855/yolor-main/inference/output/maksssksksss562.png "Test Result Image2")
+
+https://github.com/arkanandi/facemask-detection/blob/7c715bb8a04cb8635851aea387cfe26c1302f855/yolor-main/inference/images/maksssksksss562.png
+
 
 
 ## Citation

@@ -51,8 +51,8 @@ Implementation of facemask detection with Yolor in PyTorch.
 
 The results are as follows:
 
-![Test Image](https://github.com/arkanandi/facemask-detection/blob/ed89a98136ce7aa91f9d15c7a09f1952fb9a2758/yolor-main/inference/images/25.jpg)
-*Test Image1*
+| ![Test Image1](https://github.com/arkanandi/facemask-detection/blob/ed89a98136ce7aa91f9d15c7a09f1952fb9a2758/yolor-main/inference/images/25.jpg) |
+
 
 
 ## Citation
